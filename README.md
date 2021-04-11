@@ -1,2 +1,2 @@
-# L1-Rectangle-en-couleurs-1-Point
+# Rectangle-en-couleur
  Rectangles en couleurs qui ne s'entre choc pas.
